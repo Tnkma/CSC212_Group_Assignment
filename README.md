@@ -4,7 +4,7 @@
 
 | Name                        | Matric Number  | Email                         |
 |-----------------------------|---------------|-------------------------------|
-| **GODSWILL CHIMNONSO ONWUSILIKE** (Leader) | 23/CSC/221 | onwusilikenonso@gmail.com  |
+| **GODSWILL CHIMNONSO ONWUSILIKE** | 23/CSC/221 | onwusilikenonso@gmail.com  |
 | **GODWIN SUNDAY OKON**      | 23/CSC/205    | lohdgarro@gmail.com          |
 | **VICTORY OGBAN ODUM**      | 23/CSC/185    | victoryogban373@gmail.com    |
 | **ABUA GODWIN ULIMUFE**     | 23/CSC/008    | abuagodwin64@gmail.com       |
