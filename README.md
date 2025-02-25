@@ -90,11 +90,11 @@ The project is structured into different tasks as required in the assignment. Be
   - `genre(mystery)_rating>4.png`
   - `genre_rating.png`
   - `genre(romance)_rating_>_4.png`
-- **Task 3c(ii) - User listings summary:**
+- **Task 3c(ii) - All users who have listed more than three books.:**
   - `listed_by_all_user.png`
   - `listed_by_each_user.png`
   - `user_listed_more_than_3.png`
-- **Task 3c(iii) - Transactions above a certain amount:**
+- **Task 3c(iii) - Listing all transactions for books priced above $50.:**
   - `Transactions_above_$50.png`
   - `transactions_above_50&20.png`
 
@@ -125,19 +125,19 @@ The project is structured into different tasks as required in the assignment. Be
 #### **Steps to execute SQL scripts:**
 1. Open MySQL and create the database using:
    ```sql
-   CREATE DATABASE bookhub;
+   CREATE DATABASE CSC212;
    ```
 2. Load the schema:
    ```bash
-   mysql -u root -p bookhub < Task_3/Task_3a/bookhub.sql
+   mysql -u root -p CSC212 < Task_3/Task_3a/bookhub.sql
    ```
 3. Insert data:
    ```bash
-   mysql -u root -p bookhub < Task_3/Task_3a/bookhub_data.sql
+   mysql -u root -p CSC212 < Task_3/Task_3a/bookhub_data.sql
    ```
 4. Run queries:
    ```bash
-   mysql -u root -p bookhub < Task_3/Task_3a/query.sql
+   mysql -u root -p CSC212 < Task_3/Task_3a/query.sql
    ```
 
 ### **4. Review Normalization Steps**
